@@ -10,10 +10,10 @@ Given a graphic design of a website, put skills to the test and create an websit
 **[Results](#results)**
 
 ## Design
-<img src="https://github.com/tomm3hgunn/landing-page/blob/main/images/design.png" height="500">
+<img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/design.png" height="500">
 
 ## Fonts and Colors
-<img src="https://github.com/tomm3hgunn/landing-page/blob/main/images/fonts_colors.png" height="500">
+<img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/fonts_colors.png" height="500">
 
 ## Results
 In progress...

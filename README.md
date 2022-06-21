@@ -5,15 +5,15 @@ Creating a landing page given a picture design via The Odin Project.
 Given a graphic design of a website, put skills to the test and create an website from scratch. Fonts and colors are provided.
 
 ### Table of Contents  
-**[Design](#design)**  
 **[Fonts and Colors](#fonts-and-colors)**  
-**[Results](#results)**
-
-## Design
-<img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/design.png" height="500">
+**[Design](#design)** 
+**[Result](#result)**
 
 ## Fonts and Colors
 <img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/fonts_colors.png" height="500">
 
-## Results
-In progress...
+## Design
+<img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/design.png" height="500">
+
+## Result
+<img src="https://github.com/tomm3hgunn/landing-page/blob/master/images/final_product.png" height="500">
